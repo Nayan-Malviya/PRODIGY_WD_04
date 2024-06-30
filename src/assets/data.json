@@ -1,0 +1,34 @@
+{
+    "projects": [
+      {
+        "title": "NaySol",
+        "description": "This App is made using React. This app provides Solution to coding related problems.",
+        "url": "https://nayansolutionreactapp.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+      {
+        "title": "NayHUB",
+        "description": "This App is made using React. This App provides the facility to upload and see videos.",
+        "url": "https://nayhub-react.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+      {
+        "title": "Text-Utils",
+        "description": "Text-Utils is used to apply different operations on your text made with React .   ",
+        "url": "https://nayan-malviya.github.io/Text-Utility/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "title": "Flipkart Clone",
+        "description": "This App is a clone App of Flipkart application made with pure HTML and CSS only.",
+        "url": "https://flipkartclone-theta.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+      {
+        "title": "PORTFOLIO",
+        "description": "This is my portfolio made using react.",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
