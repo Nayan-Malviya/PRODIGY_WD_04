@@ -1,6 +1,6 @@
 import React from "react";
 import { AiOutlineMenu } from "react-icons/ai";
-
+import logo from "../assets/logo3.png"
 const Header = ({ setMenuOpen, menuOpen }) => {
   return (
     <>
@@ -25,7 +25,9 @@ export const HeaderPhone = ({ menuOpen, setMenuOpen }) => {
 
 const NavContent = ({ setMenuOpen }) => (
   <>
-    <h2>Nayan.</h2>
+  <div id="SOME" >
+    <img style={{height:"200px"}} src={logo} alt="Nayan" />
+  </div>
     <div>
       <a onClick={() => setMenuOpen(false)} href="#home">
         Home
